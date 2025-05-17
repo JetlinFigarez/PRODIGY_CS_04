@@ -25,7 +25,7 @@ To safely install dependencies without breaking system Python (especially on Kal
  
 # 1. Clone the Repository
 
- git clone https://github.com/your-username/PRODIGY_CS_04_Simple-Keylogger.git
+ git clone https://github.com/Jetlin Figarez/PRODIGY_CS_04_Simple-Keylogger.git
  cd PRODIGY_CS_04_Simple-Keylogger
 
 # 2. Create & Activate a Virtual Environment
@@ -47,9 +47,8 @@ To safely install dependencies without breaking system Python (especially on Kal
  File/Folder	Description
  keylogger.py	Main script that captures keystrokes
  keylog.txt	Output log file (generated at runtime)
- README.md	Project documentation
- requirements.txt	Dependency list for pip
-
+ README.md	
+ 
 # 🧪 Example Output
 
  Here’s what your keylog.txt might look like:
