@@ -25,7 +25,7 @@ To safely install dependencies without breaking system Python (especially on Kal
  
 # 1. Clone the Repository
 
- git clone https://github.com/Jetlin Figarez/PRODIGY_CS_04_Simple-Keylogger.git
+ git clone https://github.com/JetlinFigarez/PRODIGY_CS_04_Simple-Keylogger.git
  cd PRODIGY_CS_04_Simple-Keylogger
 
 # 2. Create & Activate a Virtual Environment
